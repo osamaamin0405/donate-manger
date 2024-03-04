@@ -3,10 +3,10 @@
 # Donate manger   #
 
 ## description
-"donate manager" is a small project for Egypt's charity origination to help them manage chirties people and employees
+"donate manager" is a small project for Egypt's charity origination to help them manage charities people and employees
 
 ### live preview ###
-[link] (https://drive.google.com/file/d/1FrkdWnMb4e1Pxr08sI7HkSBaYy2iUoZc/view?usp=drive_link)
+(https://drive.google.com/file/d/1FrkdWnMb4e1Pxr08sI7HkSBaYy2iUoZc/view?usp=drive_link)
 
 
 ## features
