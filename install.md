@@ -5,20 +5,26 @@
 - npm packege mange
 - mongodb
 
-# 1-1 Setup api production code
-- opend Server directory
-`shell cd Server`
-- open install directory
-`shell cd install`
+# 1-1 Setup API production code
+- open Server directory
+`shell
+    cd Server
+`
+- open the install directory
+`shell
+    cd install
+`
 - run node install.js
-`shell node install.js`
+`shell
+    node install.js
+`
 
-## 2-1 config nginx server for "api"
-- after installation done copy "dist" folder from server directory to server root
-- copy server.conf from nginx config folder
+## 2-1 config nginx server for "API"
+- after installation is done copy the "dist" folder from the server directory to the server root
+- copy server.conf from the nginx config folder
 - open server.conf and edit it
 - restart nginx server
-- open server url and test api should you get below response
+- open the server URL and test API should you get the below response
 `json 
     {
         "error": true,
@@ -28,17 +34,21 @@
     }
 `
 
-# 2-1 setup frontend 
+# 2-1 Setup frontend 
 - open (UI) directory 
-`shell cd UI`;
+`shell
+    cd UI
+`;
 - run node instal.js
-`shell node install.js`
+`shell
+    node install.js
+`
 
 # 2-2 config nginx server for "UI"
 
-- after ui installation complate copy "build" directory from UI folder
+- After UI installation complete copy "build" directory from the UI folder
 - copy UI.conf from "nginx configs" folder
 - edit UI.conf
 - default username "admin"
 - default password "92215098"
-open URL and use it
+open the URL and use it
