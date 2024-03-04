@@ -1,0 +1,9 @@
+.env
+UI/.env
+UI/node_modules
+UI/build
+
+.env
+Server/.env
+Server/node_modules
+Server/dist

@@ -1,0 +1,26 @@
+
+PUT http://127.0.0.1:3000/user/create
+Content-Type: application/json
+
+{
+  "fname": "Osama",
+  "lname": "Amin Abdullah",
+  "username": "osamaamin" ,
+  "email": "osamaradwan2003@gmail.com",
+  "password": "92215098",
+  "phone": "+201092215098",
+  "gender": 1,
+  "role": 1
+}
+
+### user login
+
+
+POST http://127.0.0.1:3000/auth/login
+Content-Type: "application/json"
+
+{
+  "username": "osamaamin",
+  "password": "92215098",
+}
+
