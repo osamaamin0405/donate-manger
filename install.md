@@ -7,17 +7,17 @@
 
 # 1-1 Setup API production code
 - open Server directory
-`shell
+```shell
     cd Server
-`
+```
 - open the install directory
-`shell
+```shell
     cd install
-`
+```
 - run node install.js
-`shell
+```shell
     node install.js
-`
+```
 
 ## 2-1 config nginx server for "API"
 - after installation is done copy the "dist" folder from the server directory to the server root
@@ -25,24 +25,24 @@
 - open server.conf and edit it
 - restart nginx server
 - open the server URL and test API should you get the below response
-`json 
+```json 
     {
         "error": true,
         "name": "",
         "message": "/ Not Found",
         "status": 404
     }
-`
+```
 
 # 2-1 Setup frontend 
 - open (UI) directory 
-`shell
+```shell
     cd UI
-`;
+```
 - run node instal.js
-`shell
+```shell
     node install.js
-`
+```
 
 # 2-2 config nginx server for "UI"
 
