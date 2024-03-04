@@ -3,34 +3,34 @@
 # Donate manger   #
 
 ## description
-"donate manger" it is small project for egypt chirty originzaion to help them to  mange chirties pepoles and employes
+"donate manager" is a small project for Egypt's charity origination to help them manage chirties people and employees
 
 ### live preview ###
 [link] (https://drive.google.com/file/d/1FrkdWnMb4e1Pxr08sI7HkSBaYy2iUoZc/view?usp=drive_link)
 
 
-## fetures
+## features
 - fast and easy to use
-- multi langual and localization
+- multi-language and localization
 - light and dark theme
-- easy to setup and upgrade 
+- easy to set up and upgrade 
 - full sparted api and inteface
 
-# api development languge and tools
+# API development languages and tools
 - node.js
 - typescript
-- mongoos
-- mongodb
+- mongoose
+- MongoDB
 - express
 
-# UI developent languge and tools
+# UI development language and tools
 - node.js
 - react.js
 - typescript
-- ant design ui freamwork
+- ant design UI framework
 - react-icons
-- axios
+- Axios
 - tailwind-css
 
-## installation
-read install.md file to get full installation documents
+## Installation
+Could you read the install.md file to get full installation documents
