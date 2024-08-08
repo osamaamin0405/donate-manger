@@ -1,36 +1,39 @@
+# Donate Manager
 
+## Description
 
-# Donate manger   #
+"Donate Manager" is a small project designed for charity organizations in Egypt to help manage donations, donors, and employees efficiently.
 
-## description
-"donate manager" is a small project for Egypt's charity origination to help them manage charities people and employees
+### Live Preview
 
-### live preview ###
-(https://drive.google.com/file/d/1FrkdWnMb4e1Pxr08sI7HkSBaYy2iUoZc/view?usp=drive_link)
+Check out the live preview [here](https://drive.google.com/file/d/1FrkdWnMb4e1Pxr08sI7HkSBaYy2iUoZc/view?usp=drive_link).
 
+## Features
 
-## features
-- fast and easy to use
-- multi-language and localization
-- light and dark theme
-- easy to set up and upgrade 
-- full sparted api and inteface
+- **Fast and Easy to Use**: Intuitive interface for quick navigation and management.
+- **Multi-language and Localization**: Supports multiple languages to cater to diverse users.
+- **Light and Dark Theme**: Switch between light and dark modes based on user preference.
+- **Easy to Set Up and Upgrade**: Simple installation process and seamless upgrades.
+- **Fully Separated API and Interface**: Distinct backend and frontend for better scalability and maintainability.
 
-# API development languages and tools
-- node.js
-- typescript
-- mongoose
+## API Development Languages and Tools
+
+- Node.js
+- TypeScript
+- Mongoose
 - MongoDB
-- express
+- Express
 
-# UI development language and tools
-- node.js
-- react.js
-- typescript
-- ant design UI framework
-- react-icons
+## UI Development Languages and Tools
+
+- Node.js
+- React.js
+- TypeScript
+- Ant Design UI Framework
+- React Icons
 - Axios
-- tailwind-css
+- Tailwind CSS
 
 ## Installation
-Could you read the install.md file to get full installation documents
+
+For detailed installation instructions, please refer to the `install.md` file
